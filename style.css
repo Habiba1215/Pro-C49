@@ -1,0 +1,14 @@
+.header{
+    text-align : center;
+}
+
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main{
+    background-image: url(bg.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+}
